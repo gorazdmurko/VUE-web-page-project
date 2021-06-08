@@ -1,3 +1,3 @@
-# Projektna---skupina-A---Gorazd-Murko
- VUE project
-mag. Ervin Schaff
+npm install
+npm run backend
+npm run serve
