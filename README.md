@@ -1,3 +1,3 @@
-npm install
-npm run backend
-npm run serve
+1. npm install
+2. npm run backend
+3. npm run serve
